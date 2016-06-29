@@ -1,0 +1,25 @@
+{
+  "name": "notnil.xyz",
+  "version": "1.0.0",
+  "description": "source code for not nil framework",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "notnil",
+    "swift"
+  ],
+  "author": "daniel-tran",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^1.8.10",
+    "typings": "^1.3.0"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "facebook-ts": "^0.2.3",
+    "reflect-metadata": "^0.1.3"
+  }
+}
